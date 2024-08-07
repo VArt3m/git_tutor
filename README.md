@@ -1,5 +1,7 @@
 # Git Tutorial
 
+Very nice
+
 ## This is a demo repository
 
-Here will be instuctions to use git
+Here will be detailed instuctions to use git
